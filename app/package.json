@@ -26,7 +26,7 @@
     "gulp-shell": "~0.2.8",
     "gulp-uglify": "^0.3.0",
     "gulp-watch": "^0.6.5",
-    "jquery": "^2.1.1",
+    "jquery": "^3.5.0",
     "jsx-loader": "^0.11.2",
     "lodash-node": "~2.4.1",
     "promise": "^6.0.0",
